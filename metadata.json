@@ -1,0 +1,6 @@
+{
+  "name": "VAULT13",
+  "description": "Цагны онлайн дэлгүүр. Захиалга бодит хугацаанд хянах, qPay, SocialPay, олон улсын картаар төлөх систем болон Админ хяналтын самбартай.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
